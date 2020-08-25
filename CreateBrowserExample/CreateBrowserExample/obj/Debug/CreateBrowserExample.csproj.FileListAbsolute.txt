@@ -1,0 +1,10 @@
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\bin\Debug\CreateBrowserExample.exe.config
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\bin\Debug\CreateBrowserExample.exe
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\bin\Debug\CreateBrowserExample.pdb
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.csprojAssemblyReference.cache
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.Form1.resources
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.Properties.Resources.resources
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.csproj.GenerateResource.cache
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.exe
+E:\Akshataproject\CreateBrowserExample\CreateBrowserExample\obj\Debug\CreateBrowserExample.pdb
