@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <meta charset="utf-8" />
+    <title>QR Code</title>
+    <script>
+        var canvas, context, video, videoObj;
+        // $ is jquery function
+        $(function () {
+            canvas = document.getElementById("canvas");
+            context = canvas.getContext("2d");
+            video = document.getElementById("video");
+
+            // different browsers provide getUserMedia() in differnt ways, so we need to consolidate
+            navigator.getUserMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia;
+
+            if (navigator.getUserMedia) {
+                navigator.getUserMedia(
+                    { video: true }, // which media
+                    function (stream) {   // success function
+                        video.src = window.URL.createObjectURL(stream);
+                        video.onloadedmetadata = function (e) {
+                            video.play();
+                        };
+                    },
+                    function (err) {  // error function
+                        console.log("The following error occured: " + err.name);
+                    }
+                );
+            }
+            else {
+                console.log("getUserMedia not supported");
+            }
+        });
+
+        function takePhoto() {
+            context.drawImage(video, 10, 10, 400, 400);
+        }
+
+        function savePhoto() {
+            var data = canvas.toDataURL();
+            var title = $("#title").val();//to retrieve data from textbox
+
+            //using query to call asp.net file asynchronously from html page
+            $.ajax({
+                type: "POST",
+                url: "Scanner.aspx",
+                data: {
+                    photo: data,
+                    title: title
+                }
+            }).done(function (o) {
+                alert("Photo Saved Successfully!");
+            });
+        }
+
+
+    </script>
+
+</head>
+<body>
+    Enter Title : <input type="text" name="title" id="title" />
+    <button id="btnSnap" onclick="takePhoto()">Scan</button>
+    <button id="btnSave" onclick="savePhoto()">Save QR</button>
+    <a href="Scanner.aspx">Scanner.aspx</a>
+    <p />
+    <video src="aqua.mp4" id="video" width="400" height="400" autoplay controls="controls"></video>
+    <canvas style="float:right" id="canvas" width="400" height="400"></canvas>
+
+</body>
+</html>

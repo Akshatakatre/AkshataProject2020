@@ -1,0 +1,329 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{547FCEC6-9F77-474A-B237-390F069C60CF}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusPass</RootNamespace>
+    <AssemblyName>BusPass</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44321</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.2.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Imaging.2.2.5\lib\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.2.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Math.2.2.5\lib\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Gma.QrCodeNet.Encoding, Version=0.0.1.29147, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QrCodeNet.0.3\lib\Gma.QrCodeNet.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="IronBarCode, Version=2020.6.0.0, Culture=neutral, PublicKeyToken=b971bb3971bdf306, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarCode.2020.6.0\lib\net40\IronBarCode.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MessagingToolkit.QRCode.1.3.0\lib\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.3.9.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.3.9\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="QRCoder.Unity, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.Unity.1.0.3\lib\net40\QRCoder.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Common, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Drawing.Common.4.7.0\lib\net461\System.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="zxing, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net47\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.5.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.5\lib\net47\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="assets\css\flex-slider.css" />
+    <Content Include="assets\css\fontawesome.css" />
+    <Content Include="assets\css\owl.css" />
+    <Content Include="assets\css\templatemo-finance-business.css" />
+    <Content Include="assets\fonts\flexslider-icon.svg" />
+    <Content Include="assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\fonts\slick.svg" />
+    <Content Include="assets\images\about-image.jpg" />
+    <Content Include="assets\images\client-01.png" />
+    <Content Include="assets\images\fun-facts-bg.jpg" />
+    <Content Include="assets\images\more-info.jpg" />
+    <Content Include="assets\images\page-heading-bg.jpg" />
+    <Content Include="assets\images\service_01.jpg" />
+    <Content Include="assets\images\service_02.jpg" />
+    <Content Include="assets\images\service_03.jpg" />
+    <Content Include="assets\images\single_service_01.jpg" />
+    <Content Include="assets\images\single_service_02.jpg" />
+    <Content Include="assets\images\single_service_03.jpg" />
+    <Content Include="assets\images\single_service_04.jpg" />
+    <Content Include="assets\images\slide_01.jpg" />
+    <Content Include="assets\images\slide_02.jpg" />
+    <Content Include="assets\images\slide_03.jpg" />
+    <Content Include="assets\images\team_01.jpg" />
+    <Content Include="assets\images\team_02.jpg" />
+    <Content Include="assets\images\team_03.jpg" />
+    <Content Include="assets\js\accordions.js" />
+    <Content Include="assets\js\custom.js" />
+    <Content Include="assets\js\owl.js" />
+    <Content Include="assets\js\slick.js" />
+    <Content Include="barcode\barcode.aspx" />
+    <Content Include="Buy Now\Buy Now.html" />
+    <Content Include="contact.html" />
+    <Content Include="Developer Guide\Developer-Guide.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\codabar.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\code25.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\code_11.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\code_128.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\code_39.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\code_93.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\data_matrix.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\ean_128.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\ean_13.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\ean_8.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\header.jpg" />
+    <Content Include="Developer Guide\Developer-Guide_files\identcode.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\interleaved25.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\isbn.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\issn.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\itf_14.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\leitcode.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\logo.png" />
+    <Content Include="Developer Guide\Developer-Guide_files\manual.css" />
+    <Content Include="Developer Guide\Developer-Guide_files\msi.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\onecode.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\pdf_417.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\planet.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\postnet.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\qrcode.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\rm4scc.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\style3.css" />
+    <Content Include="Developer Guide\Developer-Guide_files\upca.html" />
+    <Content Include="Developer Guide\Developer-Guide_files\upce.html" />
+    <Content Include="DLL\Net20\KeepAutomation.Barcode.Web.dll" />
+    <Content Include="DLL\Net40\KeepAutomation.Barcode.Web.dll" />
+    <Content Include="GenerateQRCode.aspx" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="index.html" />
+    <Content Include="QR.aspx" />
+    <Content Include="ScannedCode.aspx" />
+    <Content Include="Scanner.aspx" />
+    <None Include="Scripts\jquery-2.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-2.1.1.js" />
+    <Content Include="Scripts\jquery-2.1.1.min.js" />
+    <Content Include="Scripts\nugetexample.js" />
+    <Content Include="services.html" />
+    <Content Include="vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="vendor\jquery\jquery.js" />
+    <Content Include="vendor\jquery\jquery.min.js" />
+    <Content Include="vendor\jquery\jquery.slim.js" />
+    <Content Include="vendor\jquery\jquery.slim.min.js" />
+    <Content Include="Web.config" />
+    <Content Include="WebForm1.aspx" />
+    <Content Include="WebForm2.aspx" />
+    <Content Include="Web1.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="barcode\barcode.aspx.cs">
+      <DependentUpon>barcode.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GenerateQRCode.aspx.designer.cs">
+      <DependentUpon>GenerateQRCode.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QR.aspx.cs">
+      <DependentUpon>QR.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QR.aspx.designer.cs">
+      <DependentUpon>QR.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ScannedCode.aspx.cs">
+      <DependentUpon>ScannedCode.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ScannedCode.aspx.designer.cs">
+      <DependentUpon>ScannedCode.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Scanner.aspx.cs">
+      <DependentUpon>Scanner.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Scanner.aspx.designer.cs">
+      <DependentUpon>Scanner.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\fonts\Flaticon.woff" />
+    <Content Include="assets\fonts\flexslider-icon.eot" />
+    <Content Include="assets\fonts\flexslider-icon.ttf" />
+    <Content Include="assets\fonts\flexslider-icon.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assets\fonts\FontAwesome.otf" />
+    <Content Include="assets\fonts\slick.eot" />
+    <Content Include="assets\fonts\slick.ttf" />
+    <Content Include="assets\fonts\slick.woff" />
+    <Content Include="License\End User License Agreement.pdf" />
+    <None Include="packages.config" />
+    <Content Include="prepros-6.config" />
+    <Content Include="vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.js.map" />
+    <Content Include="vendor\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="vendor\jquery\jquery.min.map" />
+    <Content Include="vendor\jquery\jquery.slim.min.map" />
+    <Content Include="Site1.Master" />
+    <Content Include="Scripts\jquery-2.1.1.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="barcode\Bin\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>62616</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44321/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
