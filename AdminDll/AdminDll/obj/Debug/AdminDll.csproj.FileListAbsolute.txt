@@ -1,0 +1,6 @@
+E:\Akshataproject\AdminDll\AdminDll\obj\Debug\AdminDll.csprojAssemblyReference.cache
+E:\Akshataproject\AdminDll\AdminDll\obj\Debug\AdminDll.csproj.CoreCompileInputs.cache
+E:\Akshataproject\AdminDll\AdminDll\bin\Debug\AdminDll.dll
+E:\Akshataproject\AdminDll\AdminDll\bin\Debug\AdminDll.pdb
+E:\Akshataproject\AdminDll\AdminDll\obj\Debug\AdminDll.dll
+E:\Akshataproject\AdminDll\AdminDll\obj\Debug\AdminDll.pdb
