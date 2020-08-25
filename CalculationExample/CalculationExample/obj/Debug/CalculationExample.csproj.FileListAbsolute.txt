@@ -1,0 +1,17 @@
+E:\Akshataproject\CalculationExample\CalculationExample\bin\Debug\CalculationExample.exe.config
+E:\Akshataproject\CalculationExample\CalculationExample\bin\Debug\CalculationExample.exe
+E:\Akshataproject\CalculationExample\CalculationExample\bin\Debug\CalculationExample.pdb
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.csprojAssemblyReference.cache
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\MainWindow.g.cs
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\Window1.g.cs
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\App.g.cs
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample_MarkupCompile.cache
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample_MarkupCompile.lref
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\MainWindow.baml
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\Window1.baml
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.g.resources
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.Properties.Resources.resources
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.csproj.GenerateResource.cache
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.exe
+E:\Akshataproject\CalculationExample\CalculationExample\obj\Debug\CalculationExample.pdb
