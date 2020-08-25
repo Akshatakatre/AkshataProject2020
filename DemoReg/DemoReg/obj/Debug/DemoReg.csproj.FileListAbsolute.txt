@@ -1,0 +1,6 @@
+E:\Akshataproject\DemoReg\DemoReg\bin\Debug\DemoReg.dll
+E:\Akshataproject\DemoReg\DemoReg\bin\Debug\DemoReg.pdb
+E:\Akshataproject\DemoReg\DemoReg\obj\Debug\DemoReg.csprojAssemblyReference.cache
+E:\Akshataproject\DemoReg\DemoReg\obj\Debug\DemoReg.csproj.CoreCompileInputs.cache
+E:\Akshataproject\DemoReg\DemoReg\obj\Debug\DemoReg.dll
+E:\Akshataproject\DemoReg\DemoReg\obj\Debug\DemoReg.pdb
