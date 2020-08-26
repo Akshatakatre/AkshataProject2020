@@ -1,0 +1,10 @@
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\bin\Debug\MaskedTextboxExample.exe.config
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\bin\Debug\MaskedTextboxExample.exe
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\bin\Debug\MaskedTextboxExample.pdb
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.csprojAssemblyReference.cache
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.Form1.resources
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.Properties.Resources.resources
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.csproj.GenerateResource.cache
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.exe
+E:\Akshataproject\MaskedTextboxExample\MaskedTextboxExample\obj\Debug\MaskedTextboxExample.pdb
