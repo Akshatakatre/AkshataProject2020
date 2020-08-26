@@ -1,0 +1,6 @@
+E:\Akshataproject\StudentManagement\StudentManagement\bin\Debug\StudentManagement.dll
+E:\Akshataproject\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+E:\Akshataproject\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojAssemblyReference.cache
+E:\Akshataproject\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+E:\Akshataproject\StudentManagement\StudentManagement\obj\Debug\StudentManagement.dll
+E:\Akshataproject\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
