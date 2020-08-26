@@ -1,0 +1,13 @@
+E:\Akshataproject\LambdaAss2\LambdaAss2\bin\Debug\netcoreapp3.1\LambdaAss2.exe
+E:\Akshataproject\LambdaAss2\LambdaAss2\bin\Debug\netcoreapp3.1\LambdaAss2.deps.json
+E:\Akshataproject\LambdaAss2\LambdaAss2\bin\Debug\netcoreapp3.1\LambdaAss2.runtimeconfig.json
+E:\Akshataproject\LambdaAss2\LambdaAss2\bin\Debug\netcoreapp3.1\LambdaAss2.runtimeconfig.dev.json
+E:\Akshataproject\LambdaAss2\LambdaAss2\bin\Debug\netcoreapp3.1\LambdaAss2.dll
+E:\Akshataproject\LambdaAss2\LambdaAss2\bin\Debug\netcoreapp3.1\LambdaAss2.pdb
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.csprojAssemblyReference.cache
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.csproj.CoreCompileInputs.cache
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.AssemblyInfoInputs.cache
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.AssemblyInfo.cs
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.dll
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.pdb
+E:\Akshataproject\LambdaAss2\LambdaAss2\obj\Debug\netcoreapp3.1\LambdaAss2.genruntimeconfig.cache
