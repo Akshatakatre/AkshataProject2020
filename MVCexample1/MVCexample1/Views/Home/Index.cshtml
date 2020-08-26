@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Registration Form</h2>
+<hr />
+@using MVCexample1.Models
+@model User
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+
+    <span> Name :-</span>@Html.TextBoxFor(m => m.Name)
+    <br />
+    <br />
+    <span> Address :-</span>@Html.TextBoxFor(m => m.Address)
+    <br />
+    <br />
+    <span> Mobile Number :-</span>@Html.TextBoxFor(m => m.MobileNumber)
+    <br />
+    <br />
+    <span> Emailid :-</span>@Html.TextBoxFor(m => m.Emailid)
+    <br />
+    <br />
+    <span> Password :-</span>@Html.TextBoxFor(m => m.Password)
+    <br />
+    <br />
+    <span> Conform Password :-</span>@Html.TextBoxFor(m => m.ConnformPassword)
+    <br />
+    <br />
+    <span> Age :-</span>@Html.TextBoxFor(m => m.Age)
+    <br />
+    <br />
+    <div class="col-md-10">
+        <span> Gender :-</span>
+        Male
+        @Html.RadioButtonFor(model => model.Gender, "Male")
+        Female
+        @Html.RadioButtonFor(model => model.Gender, "Female")
+    </div>
+    <br />
+    <br />
+    <span> Date of Birth :-</span>@Html.TextBoxFor(m => m.DateofBirth)
+    <br />
+    <br />
+    <span> Course :-</span>@Html.TextBoxFor(m => m.Course)
+    <br />
+    <br />
+    <span> Registration Date :-</span>@Html.TextBoxFor(m => m.RegistrationDate)
+    <br />
+    <br />
+
+
+
+    <input id="Submit" type="submit" value="submit" />
+}
+<hr />
+
+<hr />
+<h3>Registration Details</h3>
+<strong>Name: </strong> @Html.DisplayFor(m => m.Name)
+<br />
+<br />
+<strong>Address: </strong> @Html.DisplayFor(m => m.Address)
+<br />
+<br />
+<strong>Mobile Number: </strong> @Html.DisplayFor(m => m.MobileNumber)
+<br />
+<br />
+<strong>Email id: </strong> @Html.DisplayFor(m => m.Emailid)
+<br />
+<br />
+<strong>Password: </strong> @Html.DisplayFor(m => m.Password)
+<br />
+<br />
+<strong>Conform Password: </strong> @Html.DisplayFor(m => m.ConnformPassword)
+<br />
+<br />
+<strong>Age: </strong> @Html.DisplayFor(m => m.Age)
+<br />
+<br />
+<strong>Gender: </strong> @Html.DisplayFor(m => m.Gender)
+<br />
+<br />
+<strong>Date of Birth: </strong> @Html.DisplayFor(m => m.DateofBirth)
+<br />
+<br />
+<strong>Course : </strong> @Html.DisplayFor(m => m.Course)
+<br />
+<br />
+<strong>Registration Date: </strong> @Html.DisplayFor(m => m.RegistrationDate)
+<br />
+<br />
+
+
+
+
+
