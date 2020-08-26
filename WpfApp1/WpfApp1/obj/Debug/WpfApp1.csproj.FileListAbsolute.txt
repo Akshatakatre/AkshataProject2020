@@ -1,0 +1,17 @@
+E:\Akshataproject\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Akshataproject\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Akshataproject\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+E:\Akshataproject\WpfApp1\WpfApp1\obj\Debug\Window1.baml
