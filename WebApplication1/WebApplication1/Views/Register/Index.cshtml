@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Registration Form</h2>
+<hr />
+@using WebApplication1.Models;
+@model RegistrationClass
+@using (Html.BeginForm("Index", "Register", FormMethod.Post))
+{
+    <span>Enter Name :</span> @Html.TextBoxFor(m => m.Name)
+    <br />
+    <br />
+    <span>Enter Address : </span> @Html.TextBoxFor(m => m.Address)
+    <br />
+    <br />
+    <span>Enter Mobile Number :</span> @Html.TextBoxFor(m => m.MobileNumber)
+    <br />
+    <br />
+    <span>Enter Email id : </span> @Html.TextBoxFor(m => m.Emailid)
+    <br />
+    <br />
+    <span>Enter Password :</span> @Html.TextBoxFor(m => m.Password)
+    <br />
+    <br />
+    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "error" })
+    <br />
+    <br />
+    <span>Enter Conform Password : </span> @Html.TextBoxFor(m => m.ConformPassword)
+    <br />
+    <br />
+    @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "error" })
+    <br />
+    <br />
+
+    <span>Enter Age :</span> @Html.TextBoxFor(m => m.Age)
+    <br />
+    <br />
+    <span>Enter Gender : </span> @Html.TextBoxFor(m => m.Gender)
+    <br />
+    <br />
+    <span>Enter Date of Birth :</span> @Html.TextBoxFor(m => m.DateofBirth)
+    <br />
+    <br />
+    <span>Enter Course : </span> @Html.TextBoxFor(m => m.Course)
+    <br />
+    <br />
+    <span>Enter Registration Date :</span> @Html.TextBoxFor(m => m.RegistrationDate)
+    <br />
+    <br />
+    <span>Enter Photo : </span> @Html.TextBoxFor(m => m.Photo)
+    <br />
+    <br />
+
+
+
+    <input id="Submit" type="submit" value="submit" />
+}
+<hr />
+
+<hr />
+<h3>Registration Details</h3>
+<strong> Name: </strong> @Html.DisplayFor(m => m.Name)
+<br />
+<br />
+<strong>Address: </strong> @Html.DisplayFor(m => m.Address)
+<br />
+<br />
+<strong> Mobile Number: </strong> @Html.DisplayFor(m => m.MobileNumber)
+<br />
+<br />
+<strong>Email id: </strong> @Html.DisplayFor(m => m.Emailid)
+<br />
+<br />
+<strong> Password: </strong> @Html.DisplayFor(m => m.Password)
+<br />
+<br />
+<strong>Conform Password: </strong> @Html.DisplayFor(m => m.ConfirmPassword)
+<br />
+<br />
+<strong> Age: </strong> @Html.DisplayFor(m => m.Age)
+<br />
+<br />
+<strong>Gender: </strong> @Html.DisplayFor(m => m.Gender)
+<br />
+<br />
+<strong> Date of Birth: </strong> @Html.DisplayFor(m => m.DateofBirth)
+<br />
+<br />
+<strong>Course: </strong> @Html.DisplayFor(m => m.Course)
+<br />
+<br />
+<strong> Registration Date: </strong> @Html.DisplayFor(m => m.RegistrationDate)
+<br />
+<br />
+<strong>Photo: </strong> @Html.DisplayFor(m => m.Photo)
+<br />
+<br />
+
+

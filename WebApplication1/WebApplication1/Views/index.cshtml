@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "index";
+}
+
+<h2>Registration Form</h2>
+<hr/>
+@using WebApplication1.Models;
+@Model RegistrationClass;
+@using (Html.BeginForm("index","RegisterController",FormMethod.Post))
+{
+    <span>Enter Name :</span> @Html.TextBoxFor(m => m.Name)<br />
+    <span>Enter Address : </span> @Html.TextBoxFor(m => m.Address)<br />
+  
+
+    <input id="Submit" type="submit" value="submit" />
+
+}
+
