@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Homepage.master.cs" Inherits="HomePage.Homepage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+        }
+        .auto-style2 {
+            font-size: x-large;
+        }
+        .auto-style3 {
+            text-align: right;
+        }
+        .auto-style5 {
+            color: #0000CC;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="auto-style1">
+            <span class="auto-style2">BUS PASS SYSTEM</span><br />
+        </div>
+        <p class="auto-style3">
+            <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <asp:HyperLink ID="HyperLink2" runat="server" CssClass="auto-style5">Home</asp:HyperLink>
+            </asp:ContentPlaceHolder>
+            <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style5">Login</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink3" runat="server" CssClass="auto-style5">Bus Details</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink4" runat="server" CssClass="auto-style5">Contact Us</asp:HyperLink>
+        <p>
+            &nbsp;</p>
+    </form>
+</body>
+</html>
