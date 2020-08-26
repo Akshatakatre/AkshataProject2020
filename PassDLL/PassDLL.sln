@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassDLL", "PassDLL\PassDLL.csproj", "{4976EB22-A96C-4A20-8C58-D7A56258C78D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4976EB22-A96C-4A20-8C58-D7A56258C78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4976EB22-A96C-4A20-8C58-D7A56258C78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4976EB22-A96C-4A20-8C58-D7A56258C78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4976EB22-A96C-4A20-8C58-D7A56258C78D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD0790D-8F8F-4517-BFB1-968782049B9F}
+	EndGlobalSection
+EndGlobal
