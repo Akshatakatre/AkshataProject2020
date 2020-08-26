@@ -1,0 +1,15 @@
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\bin\Debug\WPFRegistrtionForm.exe.config
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\bin\Debug\WPFRegistrtionForm.exe
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\bin\Debug\WPFRegistrtionForm.pdb
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.csprojAssemblyReference.cache
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\MainWindow.g.cs
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\App.g.cs
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm_MarkupCompile.cache
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm_MarkupCompile.lref
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\MainWindow.baml
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.g.resources
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.Properties.Resources.resources
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.csproj.GenerateResource.cache
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.exe
+E:\Akshataproject\WPFRegistrtionForm\WPFRegistrtionForm\obj\Debug\WPFRegistrtionForm.pdb
