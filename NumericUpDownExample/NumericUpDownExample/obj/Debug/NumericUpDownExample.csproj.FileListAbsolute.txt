@@ -1,0 +1,10 @@
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\bin\Debug\NumericUpDownExample.exe.config
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\bin\Debug\NumericUpDownExample.exe
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\bin\Debug\NumericUpDownExample.pdb
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.csprojAssemblyReference.cache
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.Form1.resources
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.Properties.Resources.resources
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.csproj.GenerateResource.cache
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.exe
+E:\Akshataproject\NumericUpDownExample\NumericUpDownExample\obj\Debug\NumericUpDownExample.pdb
