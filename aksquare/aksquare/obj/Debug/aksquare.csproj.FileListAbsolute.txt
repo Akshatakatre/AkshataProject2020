@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aksquare\aksquare\bin\Debug\aksquare.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aksquare\aksquare\bin\Debug\aksquare.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aksquare\aksquare\bin\Debug\aksquare.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aksquare\aksquare\obj\Debug\aksquare.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aksquare\aksquare\obj\Debug\aksquare.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aksquare\aksquare\obj\Debug\aksquare.pdb
