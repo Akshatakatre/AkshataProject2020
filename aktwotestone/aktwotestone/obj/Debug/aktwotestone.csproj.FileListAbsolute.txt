@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwotestone\aktwotestone\bin\Debug\aktwotestone.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwotestone\aktwotestone\bin\Debug\aktwotestone.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwotestone\aktwotestone\bin\Debug\aktwotestone.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwotestone\aktwotestone\obj\Debug\aktwotestone.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwotestone\aktwotestone\obj\Debug\aktwotestone.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwotestone\aktwotestone\obj\Debug\aktwotestone.pdb
