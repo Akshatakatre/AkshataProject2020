@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akten\akten\bin\Debug\akten.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akten\akten\bin\Debug\akten.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akten\akten\bin\Debug\akten.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akten\akten\obj\Debug\akten.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akten\akten\obj\Debug\akten.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akten\akten\obj\Debug\akten.pdb
