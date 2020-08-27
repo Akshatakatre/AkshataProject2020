@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akthree\akthree\bin\Debug\akthree.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akthree\akthree\bin\Debug\akthree.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akthree\akthree\bin\Debug\akthree.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akthree\akthree\obj\Debug\akthree.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akthree\akthree\obj\Debug\akthree.pdb
