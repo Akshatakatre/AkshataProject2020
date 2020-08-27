@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ascii\ascii\bin\Debug\ascii.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ascii\ascii\bin\Debug\ascii.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ascii\ascii\bin\Debug\ascii.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ascii\ascii\obj\Debug\ascii.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ascii\ascii\obj\Debug\ascii.pdb
