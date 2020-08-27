@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akfive\akfive\bin\Debug\akfive.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akfive\akfive\bin\Debug\akfive.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfive\akfive\bin\Debug\akfive.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akfive\akfive\obj\Debug\akfive.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akfive\akfive\obj\Debug\akfive.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfive\akfive\obj\Debug\akfive.pdb
