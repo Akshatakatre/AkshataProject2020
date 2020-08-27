@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akptr\akptr\bin\Debug\akptr.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akptr\akptr\bin\Debug\akptr.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akptr\akptr\bin\Debug\akptr.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akptr\akptr\obj\Debug\akptr.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akptr\akptr\obj\Debug\akptr.pdb
