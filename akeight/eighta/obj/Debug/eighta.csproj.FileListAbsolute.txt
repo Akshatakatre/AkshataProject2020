@@ -1,0 +1,9 @@
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\obj\Debug\eighta.csprojResolveAssemblyReference.cache
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\bin\Debug\eighta.dll
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\bin\Debug\eighta.pdb
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\bin\Debug\akeight.exe
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\bin\Debug\akeight.pdb
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\obj\Debug\eighta.dll
+c:\Users\lenovo\documents\visual studio 2015\Projects\akeight\eighta\obj\Debug\eighta.pdb

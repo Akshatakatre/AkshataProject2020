@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akeight\akeight\bin\Debug\akeight.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akeight\akeight\bin\Debug\akeight.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akeight\akeight\bin\Debug\akeight.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akeight\akeight\obj\Debug\akeight.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akeight\akeight\obj\Debug\akeight.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akeight\akeight\obj\Debug\akeight.csprojResolveAssemblyReference.cache
