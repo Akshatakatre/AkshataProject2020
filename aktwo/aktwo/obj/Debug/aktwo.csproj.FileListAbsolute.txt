@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwo\aktwo\bin\Debug\aktwo.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwo\aktwo\bin\Debug\aktwo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwo\aktwo\bin\Debug\aktwo.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwo\aktwo\obj\Debug\aktwo.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwo\aktwo\obj\Debug\aktwo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktwo\aktwo\obj\Debug\aktwo.pdb
