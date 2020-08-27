@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestfour\aktestfour\bin\Debug\aktestfour.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestfour\aktestfour\bin\Debug\aktestfour.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestfour\aktestfour\bin\Debug\aktestfour.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestfour\aktestfour\obj\Debug\aktestfour.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestfour\aktestfour\obj\Debug\aktestfour.pdb
