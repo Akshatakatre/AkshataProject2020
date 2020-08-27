@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\enter\enter\bin\Debug\enter.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\enter\enter\bin\Debug\enter.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\enter\enter\bin\Debug\enter.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\enter\enter\obj\Debug\enter.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\enter\enter\obj\Debug\enter.pdb
