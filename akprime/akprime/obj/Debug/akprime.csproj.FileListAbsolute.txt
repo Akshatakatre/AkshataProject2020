@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akprime\akprime\bin\Debug\akprime.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akprime\akprime\bin\Debug\akprime.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akprime\akprime\bin\Debug\akprime.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akprime\akprime\obj\Debug\akprime.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akprime\akprime\obj\Debug\akprime.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akprime\akprime\obj\Debug\akprime.pdb
