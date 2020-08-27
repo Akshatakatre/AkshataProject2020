@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\employee\employee\bin\Debug\employee.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\employee\employee\bin\Debug\employee.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\employee\employee\bin\Debug\employee.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\employee\employee\obj\Debug\employee.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\employee\employee\obj\Debug\employee.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\employee\employee\obj\Debug\employee.pdb
