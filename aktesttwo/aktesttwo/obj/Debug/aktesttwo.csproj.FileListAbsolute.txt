@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aktesttwo\aktesttwo\bin\Debug\aktesttwo.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aktesttwo\aktesttwo\bin\Debug\aktesttwo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktesttwo\aktesttwo\bin\Debug\aktesttwo.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aktesttwo\aktesttwo\obj\Debug\aktesttwo.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aktesttwo\aktesttwo\obj\Debug\aktesttwo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktesttwo\aktesttwo\obj\Debug\aktesttwo.pdb
