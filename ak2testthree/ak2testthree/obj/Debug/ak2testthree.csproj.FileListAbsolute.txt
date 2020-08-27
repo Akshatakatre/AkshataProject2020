@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testthree\ak2testthree\bin\Debug\ak2testthree.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testthree\ak2testthree\bin\Debug\ak2testthree.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testthree\ak2testthree\bin\Debug\ak2testthree.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testthree\ak2testthree\obj\Debug\ak2testthree.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testthree\ak2testthree\obj\Debug\ak2testthree.pdb
