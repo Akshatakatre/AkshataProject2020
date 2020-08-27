@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aksix\aksix\bin\Debug\aksix.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aksix\aksix\bin\Debug\aksix.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aksix\aksix\bin\Debug\aksix.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aksix\aksix\obj\Debug\aksix.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aksix\aksix\obj\Debug\aksix.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aksix\aksix\obj\Debug\aksix.pdb
