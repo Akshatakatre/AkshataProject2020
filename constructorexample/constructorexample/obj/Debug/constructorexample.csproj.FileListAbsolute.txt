@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\constructorexample\constructorexample\bin\Debug\constructorexample.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\constructorexample\constructorexample\bin\Debug\constructorexample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\constructorexample\constructorexample\bin\Debug\constructorexample.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\constructorexample\constructorexample\obj\Debug\constructorexample.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\constructorexample\constructorexample\obj\Debug\constructorexample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\constructorexample\constructorexample\obj\Debug\constructorexample.pdb
