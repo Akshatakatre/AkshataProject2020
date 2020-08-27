@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\bank\bank\bin\Debug\bank.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\bank\bank\bin\Debug\bank.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\bank\bank\bin\Debug\bank.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\bank\bank\obj\Debug\bank.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\bank\bank\obj\Debug\bank.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\bank\bank\obj\Debug\bank.pdb
