@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\enumprogram\enumprogram\bin\Debug\enumprogram.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\enumprogram\enumprogram\bin\Debug\enumprogram.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\enumprogram\enumprogram\bin\Debug\enumprogram.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\enumprogram\enumprogram\obj\Debug\enumprogram.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\enumprogram\enumprogram\obj\Debug\enumprogram.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\enumprogram\enumprogram\obj\Debug\enumprogram.pdb
