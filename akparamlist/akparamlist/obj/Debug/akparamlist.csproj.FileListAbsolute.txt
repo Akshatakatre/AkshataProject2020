@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akparamlist\akparamlist\bin\Debug\akparamlist.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akparamlist\akparamlist\bin\Debug\akparamlist.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akparamlist\akparamlist\bin\Debug\akparamlist.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akparamlist\akparamlist\obj\Debug\akparamlist.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akparamlist\akparamlist\obj\Debug\akparamlist.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akparamlist\akparamlist\obj\Debug\akparamlist.pdb
