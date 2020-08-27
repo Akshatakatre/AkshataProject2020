@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aknine\aknine\bin\Debug\aknine.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aknine\aknine\bin\Debug\aknine.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aknine\aknine\bin\Debug\aknine.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aknine\aknine\obj\Debug\aknine.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aknine\aknine\obj\Debug\aknine.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aknine\aknine\obj\Debug\aknine.pdb
