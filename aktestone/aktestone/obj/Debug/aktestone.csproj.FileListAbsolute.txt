@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestone\aktestone\bin\Debug\aktestone.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestone\aktestone\bin\Debug\aktestone.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestone\aktestone\bin\Debug\aktestone.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestone\aktestone\obj\Debug\aktestone.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestone\aktestone\obj\Debug\aktestone.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktestone\aktestone\obj\Debug\aktestone.pdb
