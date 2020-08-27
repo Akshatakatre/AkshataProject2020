@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\bankacc\bankacc\bin\Debug\bankacc.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\bankacc\bankacc\bin\Debug\bankacc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\bankacc\bankacc\bin\Debug\bankacc.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\bankacc\bankacc\obj\Debug\bankacc.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\bankacc\bankacc\obj\Debug\bankacc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\bankacc\bankacc\obj\Debug\bankacc.pdb
