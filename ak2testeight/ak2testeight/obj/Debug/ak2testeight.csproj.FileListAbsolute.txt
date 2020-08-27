@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testeight\ak2testeight\bin\Debug\ak2testeight.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testeight\ak2testeight\bin\Debug\ak2testeight.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testeight\ak2testeight\bin\Debug\ak2testeight.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testeight\ak2testeight\obj\Debug\ak2testeight.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testeight\ak2testeight\obj\Debug\ak2testeight.pdb
