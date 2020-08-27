@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akpatternexample\akpatternexample\bin\Debug\akpatternexample.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akpatternexample\akpatternexample\bin\Debug\akpatternexample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpatternexample\akpatternexample\bin\Debug\akpatternexample.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akpatternexample\akpatternexample\obj\Debug\akpatternexample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpatternexample\akpatternexample\obj\Debug\akpatternexample.pdb
