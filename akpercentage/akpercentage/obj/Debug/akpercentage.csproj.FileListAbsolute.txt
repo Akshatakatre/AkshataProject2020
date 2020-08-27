@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akpercentage\akpercentage\bin\Debug\akpercentage.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akpercentage\akpercentage\bin\Debug\akpercentage.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpercentage\akpercentage\bin\Debug\akpercentage.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akpercentage\akpercentage\obj\Debug\akpercentage.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpercentage\akpercentage\obj\Debug\akpercentage.pdb
