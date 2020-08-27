@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\EventExample\EventExample\bin\Debug\EventExample.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\EventExample\EventExample\bin\Debug\EventExample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\EventExample\EventExample\bin\Debug\EventExample.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\EventExample\EventExample\obj\Debug\EventExample.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\EventExample\EventExample\obj\Debug\EventExample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\EventExample\EventExample\obj\Debug\EventExample.pdb
