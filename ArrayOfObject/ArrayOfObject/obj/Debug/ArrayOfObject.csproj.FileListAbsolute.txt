@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayOfObject\ArrayOfObject\bin\Debug\ArrayOfObject.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayOfObject\ArrayOfObject\bin\Debug\ArrayOfObject.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayOfObject\ArrayOfObject\bin\Debug\ArrayOfObject.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayOfObject\ArrayOfObject\obj\Debug\ArrayOfObject.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayOfObject\ArrayOfObject\obj\Debug\ArrayOfObject.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ArrayOfObject\ArrayOfObject\obj\Debug\ArrayOfObject.pdb
