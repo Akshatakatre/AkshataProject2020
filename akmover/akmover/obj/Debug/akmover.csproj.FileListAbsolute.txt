@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akmover\akmover\bin\Debug\akmover.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akmover\akmover\obj\Debug\akmover.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akmover\akmover\bin\Debug\akmover.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akmover\akmover\bin\Debug\akmover.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akmover\akmover\obj\Debug\akmover.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akmover\akmover\obj\Debug\akmover.pdb
