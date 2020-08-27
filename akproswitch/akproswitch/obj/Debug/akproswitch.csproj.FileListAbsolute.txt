@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akproswitch\akproswitch\bin\Debug\akproswitch.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akproswitch\akproswitch\bin\Debug\akproswitch.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akproswitch\akproswitch\bin\Debug\akproswitch.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akproswitch\akproswitch\obj\Debug\akproswitch.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akproswitch\akproswitch\obj\Debug\akproswitch.pdb
