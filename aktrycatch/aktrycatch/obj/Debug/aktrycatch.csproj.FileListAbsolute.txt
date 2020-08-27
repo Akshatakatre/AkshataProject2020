@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\aktrycatch\aktrycatch\bin\Debug\aktrycatch.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\aktrycatch\aktrycatch\bin\Debug\aktrycatch.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktrycatch\aktrycatch\bin\Debug\aktrycatch.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\aktrycatch\aktrycatch\obj\Debug\aktrycatch.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\aktrycatch\aktrycatch\obj\Debug\aktrycatch.pdb
