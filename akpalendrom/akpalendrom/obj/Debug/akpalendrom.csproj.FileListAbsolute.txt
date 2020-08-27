@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akpalendrom\akpalendrom\bin\Debug\akpalendrom.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akpalendrom\akpalendrom\bin\Debug\akpalendrom.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpalendrom\akpalendrom\bin\Debug\akpalendrom.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akpalendrom\akpalendrom\obj\Debug\akpalendrom.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpalendrom\akpalendrom\obj\Debug\akpalendrom.pdb
