@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akforce\akforce\bin\Debug\akforce.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akforce\akforce\bin\Debug\akforce.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akforce\akforce\bin\Debug\akforce.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akforce\akforce\obj\Debug\akforce.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akforce\akforce\obj\Debug\akforce.pdb

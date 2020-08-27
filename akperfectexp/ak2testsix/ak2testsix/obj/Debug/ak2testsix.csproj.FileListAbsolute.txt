@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testsix\ak2testsix\bin\Debug\ak2testsix.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testsix\ak2testsix\bin\Debug\ak2testsix.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testsix\ak2testsix\bin\Debug\ak2testsix.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testsix\ak2testsix\obj\Debug\ak2testsix.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testsix\ak2testsix\obj\Debug\ak2testsix.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ak2testsix\ak2testsix\obj\Debug\ak2testsix.pdb

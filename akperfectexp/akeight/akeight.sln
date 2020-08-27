@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "akeight", "akeight\akeight.csproj", "{4601977E-2FE2-4CC0-A925-7051FFCF6703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eighta", "eighta\eighta.csproj", "{EE22283A-E0D4-422A-8D56-A032BE0F190A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4601977E-2FE2-4CC0-A925-7051FFCF6703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4601977E-2FE2-4CC0-A925-7051FFCF6703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4601977E-2FE2-4CC0-A925-7051FFCF6703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4601977E-2FE2-4CC0-A925-7051FFCF6703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE22283A-E0D4-422A-8D56-A032BE0F190A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE22283A-E0D4-422A-8D56-A032BE0F190A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE22283A-E0D4-422A-8D56-A032BE0F190A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE22283A-E0D4-422A-8D56-A032BE0F190A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

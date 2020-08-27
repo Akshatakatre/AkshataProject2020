@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akfactorial\akfactorial\bin\Debug\akfactorial.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akfactorial\akfactorial\bin\Debug\akfactorial.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfactorial\akfactorial\bin\Debug\akfactorial.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akfactorial\akfactorial\obj\Debug\akfactorial.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfactorial\akfactorial\obj\Debug\akfactorial.pdb

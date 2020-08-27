@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akfinally\akfinally\bin\Debug\akfinally.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akfinally\akfinally\bin\Debug\akfinally.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfinally\akfinally\bin\Debug\akfinally.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akfinally\akfinally\obj\Debug\akfinally.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akfinally\akfinally\obj\Debug\akfinally.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfinally\akfinally\obj\Debug\akfinally.pdb

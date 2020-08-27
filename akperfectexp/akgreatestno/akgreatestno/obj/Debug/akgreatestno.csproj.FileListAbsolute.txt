@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akgreatestno\akgreatestno\bin\Debug\akgreatestno.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akgreatestno\akgreatestno\bin\Debug\akgreatestno.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akgreatestno\akgreatestno\bin\Debug\akgreatestno.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akgreatestno\akgreatestno\obj\Debug\akgreatestno.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akgreatestno\akgreatestno\obj\Debug\akgreatestno.pdb

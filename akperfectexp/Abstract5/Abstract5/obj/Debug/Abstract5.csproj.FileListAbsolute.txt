@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract5\Abstract5\bin\Debug\Abstract5.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract5\Abstract5\bin\Debug\Abstract5.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract5\Abstract5\bin\Debug\Abstract5.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract5\Abstract5\obj\Debug\Abstract5.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract5\Abstract5\obj\Debug\Abstract5.pdb

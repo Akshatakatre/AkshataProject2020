@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\abstractClass\abstractClass\bin\Debug\abstractClass.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\abstractClass\abstractClass\bin\Debug\abstractClass.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\abstractClass\abstractClass\bin\Debug\abstractClass.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\abstractClass\abstractClass\obj\Debug\abstractClass.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\abstractClass\abstractClass\obj\Debug\abstractClass.pdb

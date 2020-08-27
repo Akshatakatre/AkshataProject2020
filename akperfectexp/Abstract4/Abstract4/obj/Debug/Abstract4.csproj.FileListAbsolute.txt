@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract4\Abstract4\bin\Debug\Abstract4.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract4\Abstract4\bin\Debug\Abstract4.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract4\Abstract4\bin\Debug\Abstract4.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract4\Abstract4\obj\Debug\Abstract4.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract4\Abstract4\obj\Debug\Abstract4.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Abstract4\Abstract4\obj\Debug\Abstract4.pdb

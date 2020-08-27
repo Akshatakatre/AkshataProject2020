@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akfour\akfour\bin\Debug\akfour.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akfour\akfour\bin\Debug\akfour.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfour\akfour\bin\Debug\akfour.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akfour\akfour\obj\Debug\akfour.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akfour\akfour\obj\Debug\akfour.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akfour\akfour\obj\Debug\akfour.pdb

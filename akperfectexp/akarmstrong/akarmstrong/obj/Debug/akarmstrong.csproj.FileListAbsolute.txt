@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akarmstrong\akarmstrong\bin\Debug\akarmstrong.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akarmstrong\akarmstrong\bin\Debug\akarmstrong.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akarmstrong\akarmstrong\bin\Debug\akarmstrong.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akarmstrong\akarmstrong\obj\Debug\akarmstrong.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akarmstrong\akarmstrong\obj\Debug\akarmstrong.pdb

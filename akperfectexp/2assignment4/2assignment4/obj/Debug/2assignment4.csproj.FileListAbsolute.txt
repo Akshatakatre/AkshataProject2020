@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment4\2assignment4\bin\Debug\2assignment4.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\2assignment4\2assignment4\bin\Debug\2assignment4.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\2assignment4\2assignment4\bin\Debug\2assignment4.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\2assignment4\2assignment4\obj\Debug\2assignment4.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\2assignment4\2assignment4\obj\Debug\2assignment4.pdb

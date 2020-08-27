@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akone\akone\bin\Debug\akone.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akone\akone\bin\Debug\akone.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akone\akone\bin\Debug\akone.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akone\akone\obj\Debug\akone.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akone\akone\obj\Debug\akone.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akone\akone\obj\Debug\akone.pdb

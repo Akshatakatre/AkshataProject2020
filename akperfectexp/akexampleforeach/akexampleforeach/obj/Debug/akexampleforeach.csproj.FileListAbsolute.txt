@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akexampleforeach\akexampleforeach\bin\Debug\akexampleforeach.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akexampleforeach\akexampleforeach\bin\Debug\akexampleforeach.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akexampleforeach\akexampleforeach\bin\Debug\akexampleforeach.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akexampleforeach\akexampleforeach\obj\Debug\akexampleforeach.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akexampleforeach\akexampleforeach\obj\Debug\akexampleforeach.pdb

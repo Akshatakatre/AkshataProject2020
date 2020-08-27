@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akforstatement\akforstatement\bin\Debug\akforstatement.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akforstatement\akforstatement\bin\Debug\akforstatement.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akforstatement\akforstatement\bin\Debug\akforstatement.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akforstatement\akforstatement\obj\Debug\akforstatement.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akforstatement\akforstatement\obj\Debug\akforstatement.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akforstatement\akforstatement\obj\Debug\akforstatement.pdb

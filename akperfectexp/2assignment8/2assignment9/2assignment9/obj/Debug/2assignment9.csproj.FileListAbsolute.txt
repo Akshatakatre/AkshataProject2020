@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment9\2assignment9\bin\Debug\2assignment9.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment9\2assignment9\bin\Debug\2assignment9.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment9\2assignment9\bin\Debug\2assignment9.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment9\2assignment9\obj\Debug\2assignment9.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment9\2assignment9\obj\Debug\2assignment9.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\2assignment9\2assignment9\obj\Debug\2assignment9.pdb

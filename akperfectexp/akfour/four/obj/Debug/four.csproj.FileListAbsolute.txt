@@ -1,0 +1,9 @@
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\bin\Debug\four.dll
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\bin\Debug\four.pdb
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\bin\Debug\akfour.exe
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\bin\Debug\akfour.pdb
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\obj\Debug\four.csprojResolveAssemblyReference.cache
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\obj\Debug\four.dll
+c:\Users\lenovo\documents\visual studio 2015\Projects\akfour\four\obj\Debug\four.pdb
