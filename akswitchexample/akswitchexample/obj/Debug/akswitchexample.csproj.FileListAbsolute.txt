@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akswitchexample\akswitchexample\bin\Debug\akswitchexample.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akswitchexample\akswitchexample\bin\Debug\akswitchexample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akswitchexample\akswitchexample\bin\Debug\akswitchexample.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akswitchexample\akswitchexample\obj\Debug\akswitchexample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akswitchexample\akswitchexample\obj\Debug\akswitchexample.pdb
