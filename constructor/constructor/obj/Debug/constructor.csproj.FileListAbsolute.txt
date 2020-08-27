@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\constructor\constructor\bin\Debug\constructor.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\constructor\constructor\bin\Debug\constructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\constructor\constructor\bin\Debug\constructor.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\constructor\constructor\obj\Debug\constructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\constructor\constructor\obj\Debug\constructor.pdb
