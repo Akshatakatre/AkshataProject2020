@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akassgntoo\akassgntoo\bin\Debug\akassgntoo.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akassgntoo\akassgntoo\bin\Debug\akassgntoo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akassgntoo\akassgntoo\bin\Debug\akassgntoo.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akassgntoo\akassgntoo\obj\Debug\akassgntoo.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\akassgntoo\akassgntoo\obj\Debug\akassgntoo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akassgntoo\akassgntoo\obj\Debug\akassgntoo.pdb
