@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akpnumber\akpnumber\bin\Debug\akpnumber.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akpnumber\akpnumber\bin\Debug\akpnumber.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpnumber\akpnumber\bin\Debug\akpnumber.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akpnumber\akpnumber\obj\Debug\akpnumber.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akpnumber\akpnumber\obj\Debug\akpnumber.pdb
