@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akptrnpro\akptrnpro\bin\Debug\akptrnpro.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akptrnpro\akptrnpro\bin\Debug\akptrnpro.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akptrnpro\akptrnpro\bin\Debug\akptrnpro.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akptrnpro\akptrnpro\obj\Debug\akptrnpro.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akptrnpro\akptrnpro\obj\Debug\akptrnpro.pdb
