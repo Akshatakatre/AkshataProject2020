@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\akperfect\akperfect\bin\Debug\akperfect.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\akperfect\akperfect\bin\Debug\akperfect.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akperfect\akperfect\bin\Debug\akperfect.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\akperfect\akperfect\obj\Debug\akperfect.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\akperfect\akperfect\obj\Debug\akperfect.pdb
