@@ -1,0 +1,9 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\bin\Debug\sevena.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\bin\Debug\sevena.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\bin\Debug\akseven.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\bin\Debug\akseven.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\obj\Debug\sevena.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\obj\Debug\sevena.dll
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\akseven\sevena\obj\Debug\sevena.pdb
