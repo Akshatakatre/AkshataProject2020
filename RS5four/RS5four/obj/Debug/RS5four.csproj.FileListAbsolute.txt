@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5four\RS5four\bin\Debug\RS5four.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5four\RS5four\bin\Debug\RS5four.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5four\RS5four\bin\Debug\RS5four.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5four\RS5four\obj\Debug\RS5four.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5four\RS5four\obj\Debug\RS5four.pdb
