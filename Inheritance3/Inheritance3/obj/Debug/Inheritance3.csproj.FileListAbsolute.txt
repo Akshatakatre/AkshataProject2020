@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\bin\Debug\Inheritance3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\bin\Debug\Inheritance3.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\obj\Debug\Inheritance3.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\obj\Debug\Inheritance3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance3\Inheritance3\obj\Debug\Inheritance3.pdb
