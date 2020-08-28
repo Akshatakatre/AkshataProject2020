@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\long\long\bin\Debug\@long.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\long\long\bin\Debug\@long.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\long\long\bin\Debug\@long.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\long\long\obj\Debug\@long.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\long\long\obj\Debug\@long.pdb
