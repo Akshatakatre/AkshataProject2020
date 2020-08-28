@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\test3three\test3three\bin\Debug\test3three.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\test3three\test3three\bin\Debug\test3three.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3three\test3three\bin\Debug\test3three.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\test3three\test3three\obj\Debug\test3three.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3three\test3three\obj\Debug\test3three.pdb
