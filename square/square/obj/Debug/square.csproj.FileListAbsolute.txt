@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\square\square\bin\Debug\square.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\square\square\bin\Debug\square.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\square\square\bin\Debug\square.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\square\square\obj\Debug\square.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\square\square\obj\Debug\square.pdb
