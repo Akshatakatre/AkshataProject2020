@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\privateconstructor\privateconstructor\bin\Debug\privateconstructor.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\privateconstructor\privateconstructor\bin\Debug\privateconstructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\privateconstructor\privateconstructor\bin\Debug\privateconstructor.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\privateconstructor\privateconstructor\obj\Debug\privateconstructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\privateconstructor\privateconstructor\obj\Debug\privateconstructor.pdb
