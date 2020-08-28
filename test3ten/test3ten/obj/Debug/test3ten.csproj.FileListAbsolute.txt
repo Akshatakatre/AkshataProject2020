@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\test3ten\test3ten\bin\Debug\test3ten.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\test3ten\test3ten\bin\Debug\test3ten.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3ten\test3ten\bin\Debug\test3ten.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\test3ten\test3ten\obj\Debug\test3ten.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3ten\test3ten\obj\Debug\test3ten.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\test3ten\test3ten\obj\Debug\test3ten.csprojResolveAssemblyReference.cache
