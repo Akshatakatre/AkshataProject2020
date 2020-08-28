@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\readonly\readonly\bin\Debug\@readonly.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\readonly\readonly\bin\Debug\@readonly.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\readonly\readonly\bin\Debug\@readonly.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\readonly\readonly\obj\Debug\@readonly.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\readonly\readonly\obj\Debug\@readonly.pdb
