@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\sealedClassExample\sealedClassExample\bin\Debug\sealedClassExample.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\sealedClassExample\sealedClassExample\bin\Debug\sealedClassExample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\sealedClassExample\sealedClassExample\bin\Debug\sealedClassExample.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\sealedClassExample\sealedClassExample\obj\Debug\sealedClassExample.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\sealedClassExample\sealedClassExample\obj\Debug\sealedClassExample.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\sealedClassExample\sealedClassExample\obj\Debug\sealedClassExample.pdb
