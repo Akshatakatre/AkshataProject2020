@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\staticbank\staticbank\bin\Debug\staticbank.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\staticbank\staticbank\bin\Debug\staticbank.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\staticbank\staticbank\bin\Debug\staticbank.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\staticbank\staticbank\obj\Debug\staticbank.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\staticbank\staticbank\obj\Debug\staticbank.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\staticbank\staticbank\obj\Debug\staticbank.pdb
