@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6five\RS6five\bin\Debug\RS6five.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6five\RS6five\bin\Debug\RS6five.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6five\RS6five\bin\Debug\RS6five.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6five\RS6five\obj\Debug\RS6five.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6five\RS6five\obj\Debug\RS6five.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6five\RS6five\obj\Debug\RS6five.pdb
