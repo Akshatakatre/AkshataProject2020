@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\obj\Debug\primenum.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\bin\Debug\primenum.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\bin\Debug\primenum.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\bin\Debug\primetest.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\bin\Debug\primetest.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\obj\Debug\primenum.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primenum\obj\Debug\primenum.pdb

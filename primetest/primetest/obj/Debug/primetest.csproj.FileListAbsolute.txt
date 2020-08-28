@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primetest\bin\Debug\primetest.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primetest\bin\Debug\primetest.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primetest\bin\Debug\primetest.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primetest\obj\Debug\primetest.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primetest\obj\Debug\primetest.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\primetest\primetest\obj\Debug\primetest.pdb
