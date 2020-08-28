@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\structconst\structconst\bin\Debug\structconst.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\structconst\structconst\bin\Debug\structconst.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\structconst\structconst\bin\Debug\structconst.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\structconst\structconst\obj\Debug\structconst.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\structconst\structconst\obj\Debug\structconst.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\structconst\structconst\obj\Debug\structconst.pdb
