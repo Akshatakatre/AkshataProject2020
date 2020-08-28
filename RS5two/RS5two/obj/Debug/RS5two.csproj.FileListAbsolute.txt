@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5two\RS5two\bin\Debug\RS5two.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5two\RS5two\bin\Debug\RS5two.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5two\RS5two\bin\Debug\RS5two.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5two\RS5two\obj\Debug\RS5two.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS5two\RS5two\obj\Debug\RS5two.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\RS5two\RS5two\obj\Debug\RS5two.csprojResolveAssemblyReference.cache
