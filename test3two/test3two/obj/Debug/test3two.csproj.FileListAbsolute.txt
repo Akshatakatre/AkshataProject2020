@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\test3two\test3two\bin\Debug\test3two.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\test3two\test3two\bin\Debug\test3two.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3two\test3two\bin\Debug\test3two.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\test3two\test3two\obj\Debug\test3two.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3two\test3two\obj\Debug\test3two.pdb
