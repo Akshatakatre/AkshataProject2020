@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance6\Inheritance6\bin\Debug\Inheritance6.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance6\Inheritance6\bin\Debug\Inheritance6.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance6\Inheritance6\bin\Debug\Inheritance6.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance6\Inheritance6\obj\Debug\Inheritance6.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance6\Inheritance6\obj\Debug\Inheritance6.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance6\Inheritance6\obj\Debug\Inheritance6.pdb
