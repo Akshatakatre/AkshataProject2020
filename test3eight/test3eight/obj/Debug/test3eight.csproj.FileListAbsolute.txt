@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\test3eight\test3eight\bin\Debug\test3eight.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\test3eight\test3eight\bin\Debug\test3eight.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3eight\test3eight\bin\Debug\test3eight.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\test3eight\test3eight\obj\Debug\test3eight.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3eight\test3eight\obj\Debug\test3eight.pdb
