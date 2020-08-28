@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6three\RS6three\bin\Debug\RS6three.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6three\RS6three\bin\Debug\RS6three.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6three\RS6three\bin\Debug\RS6three.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6three\RS6three\obj\Debug\RS6three.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6three\RS6three\obj\Debug\RS6three.pdb
