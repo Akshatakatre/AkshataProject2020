@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6six\RS6six\bin\Debug\RS6six.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\RS6six\RS6six\bin\Debug\RS6six.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\RS6six\RS6six\bin\Debug\RS6six.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\RS6six\RS6six\obj\Debug\RS6six.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\RS6six\RS6six\obj\Debug\RS6six.pdb
