@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\StaticVariable\StaticVariable\bin\Debug\StaticVariable.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\StaticVariable\StaticVariable\bin\Debug\StaticVariable.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\StaticVariable\StaticVariable\obj\Debug\StaticVariable.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\StaticVariable\StaticVariable\obj\Debug\StaticVariable.pdb
