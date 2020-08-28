@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\short\short\bin\Debug\@short.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\short\short\bin\Debug\@short.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\short\short\bin\Debug\@short.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\short\short\obj\Debug\short.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\short\short\obj\Debug\@short.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\short\short\obj\Debug\@short.pdb
