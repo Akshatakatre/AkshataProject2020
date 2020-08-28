@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4Two\RS4Two\bin\Debug\RS4Two.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4Two\RS4Two\bin\Debug\RS4Two.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4Two\RS4Two\bin\Debug\RS4Two.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4Two\RS4Two\obj\Debug\RS4Two.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4Two\RS4Two\obj\Debug\RS4Two.pdb
