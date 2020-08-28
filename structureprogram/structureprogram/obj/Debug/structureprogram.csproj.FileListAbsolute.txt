@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\structureprogram\structureprogram\bin\Debug\structureprogram.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\structureprogram\structureprogram\bin\Debug\structureprogram.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\structureprogram\structureprogram\bin\Debug\structureprogram.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\structureprogram\structureprogram\obj\Debug\structureprogram.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\structureprogram\structureprogram\obj\Debug\structureprogram.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\structureprogram\structureprogram\obj\Debug\structureprogram.pdb
