@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Interface MethodExplicitly\Interface MethodExplicitly\bin\Debug\Interface MethodExplicitly.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Interface MethodExplicitly\Interface MethodExplicitly\bin\Debug\Interface MethodExplicitly.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Interface MethodExplicitly\Interface MethodExplicitly\bin\Debug\Interface MethodExplicitly.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Interface MethodExplicitly\Interface MethodExplicitly\obj\Debug\Interface MethodExplicitly.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Interface MethodExplicitly\Interface MethodExplicitly\obj\Debug\Interface MethodExplicitly.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Interface MethodExplicitly\Interface MethodExplicitly\obj\Debug\Interface MethodExplicitly.csprojResolveAssemblyReference.cache
