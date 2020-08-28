@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\test3five\test3five\bin\Debug\test3five.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\test3five\test3five\bin\Debug\test3five.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3five\test3five\bin\Debug\test3five.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\test3five\test3five\obj\Debug\test3five.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\test3five\test3five\obj\Debug\test3five.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test3five\test3five\obj\Debug\test3five.pdb
