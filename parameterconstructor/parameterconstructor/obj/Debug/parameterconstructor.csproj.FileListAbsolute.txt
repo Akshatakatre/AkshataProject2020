@@ -1,0 +1,5 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\parameterconstructor\parameterconstructor\bin\Debug\parameterconstructor.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\parameterconstructor\parameterconstructor\bin\Debug\parameterconstructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\parameterconstructor\parameterconstructor\bin\Debug\parameterconstructor.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\parameterconstructor\parameterconstructor\obj\Debug\parameterconstructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\parameterconstructor\parameterconstructor\obj\Debug\parameterconstructor.pdb
