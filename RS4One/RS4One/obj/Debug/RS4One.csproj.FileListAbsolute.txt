@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4One\RS4One\bin\Debug\RS4One.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4One\RS4One\bin\Debug\RS4One.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4One\RS4One\bin\Debug\RS4One.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4One\RS4One\obj\Debug\RS4One.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4One\RS4One\obj\Debug\RS4One.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS4One\RS4One\obj\Debug\RS4One.pdb
