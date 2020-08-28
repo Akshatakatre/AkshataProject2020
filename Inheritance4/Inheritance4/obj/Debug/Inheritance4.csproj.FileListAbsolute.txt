@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance4\Inheritance4\bin\Debug\Inheritance4.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance4\Inheritance4\obj\Debug\Inheritance4.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance4\Inheritance4\bin\Debug\Inheritance4.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance4\Inheritance4\bin\Debug\Inheritance4.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance4\Inheritance4\obj\Debug\Inheritance4.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Inheritance4\Inheritance4\obj\Debug\Inheritance4.pdb
