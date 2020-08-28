@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6four\RS6four\bin\Debug\RS6four.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6four\RS6four\bin\Debug\RS6four.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6four\RS6four\bin\Debug\RS6four.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6four\RS6four\obj\Debug\RS6four.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6four\RS6four\obj\Debug\RS6four.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\RS6four\RS6four\obj\Debug\RS6four.pdb
