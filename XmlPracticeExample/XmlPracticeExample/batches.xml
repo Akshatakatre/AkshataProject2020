@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<batches>
+  <batch>
+    <batchid>dn1:-</batchid>
+    <coursename>dotnet</coursename>
+  </batch>
+  <br/>
+  <br/>
+  <batch>
+    <batchid>py1:-</batchid>
+    <coursename>python</coursename>
+  </batch>
+  
+</batches>
