@@ -1,0 +1,13 @@
+E:\Akshataproject\Delegate5\Delegate5\bin\Debug\netcoreapp3.1\Delegate5.exe
+E:\Akshataproject\Delegate5\Delegate5\bin\Debug\netcoreapp3.1\Delegate5.deps.json
+E:\Akshataproject\Delegate5\Delegate5\bin\Debug\netcoreapp3.1\Delegate5.runtimeconfig.json
+E:\Akshataproject\Delegate5\Delegate5\bin\Debug\netcoreapp3.1\Delegate5.runtimeconfig.dev.json
+E:\Akshataproject\Delegate5\Delegate5\bin\Debug\netcoreapp3.1\Delegate5.dll
+E:\Akshataproject\Delegate5\Delegate5\bin\Debug\netcoreapp3.1\Delegate5.pdb
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.csprojAssemblyReference.cache
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.csproj.CoreCompileInputs.cache
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.AssemblyInfoInputs.cache
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.AssemblyInfo.cs
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.dll
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.pdb
+E:\Akshataproject\Delegate5\Delegate5\obj\Debug\netcoreapp3.1\Delegate5.genruntimeconfig.cache
