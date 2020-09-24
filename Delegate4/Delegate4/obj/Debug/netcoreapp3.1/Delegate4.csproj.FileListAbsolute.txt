@@ -1,0 +1,13 @@
+E:\Akshataproject\Delegate4\Delegate4\bin\Debug\netcoreapp3.1\Delegate4.exe
+E:\Akshataproject\Delegate4\Delegate4\bin\Debug\netcoreapp3.1\Delegate4.deps.json
+E:\Akshataproject\Delegate4\Delegate4\bin\Debug\netcoreapp3.1\Delegate4.runtimeconfig.json
+E:\Akshataproject\Delegate4\Delegate4\bin\Debug\netcoreapp3.1\Delegate4.runtimeconfig.dev.json
+E:\Akshataproject\Delegate4\Delegate4\bin\Debug\netcoreapp3.1\Delegate4.dll
+E:\Akshataproject\Delegate4\Delegate4\bin\Debug\netcoreapp3.1\Delegate4.pdb
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.csprojAssemblyReference.cache
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.csproj.CoreCompileInputs.cache
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.AssemblyInfoInputs.cache
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.AssemblyInfo.cs
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.dll
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.pdb
+E:\Akshataproject\Delegate4\Delegate4\obj\Debug\netcoreapp3.1\Delegate4.genruntimeconfig.cache
