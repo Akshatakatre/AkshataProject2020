@@ -1,0 +1,13 @@
+E:\Akshataproject\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.exe
+E:\Akshataproject\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.deps.json
+E:\Akshataproject\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.json
+E:\Akshataproject\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.runtimeconfig.dev.json
+E:\Akshataproject\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.dll
+E:\Akshataproject\Delegate2\Delegate2\bin\Debug\netcoreapp3.1\Delegate2.pdb
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csprojAssemblyReference.cache
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.csproj.CoreCompileInputs.cache
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfoInputs.cache
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.AssemblyInfo.cs
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.dll
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.pdb
+E:\Akshataproject\Delegate2\Delegate2\obj\Debug\netcoreapp3.1\Delegate2.genruntimeconfig.cache
