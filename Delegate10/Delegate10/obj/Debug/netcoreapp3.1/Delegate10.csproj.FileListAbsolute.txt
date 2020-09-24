@@ -1,0 +1,13 @@
+E:\Akshataproject\Delegate10\Delegate10\bin\Debug\netcoreapp3.1\Delegate10.exe
+E:\Akshataproject\Delegate10\Delegate10\bin\Debug\netcoreapp3.1\Delegate10.deps.json
+E:\Akshataproject\Delegate10\Delegate10\bin\Debug\netcoreapp3.1\Delegate10.runtimeconfig.json
+E:\Akshataproject\Delegate10\Delegate10\bin\Debug\netcoreapp3.1\Delegate10.runtimeconfig.dev.json
+E:\Akshataproject\Delegate10\Delegate10\bin\Debug\netcoreapp3.1\Delegate10.dll
+E:\Akshataproject\Delegate10\Delegate10\bin\Debug\netcoreapp3.1\Delegate10.pdb
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.csprojAssemblyReference.cache
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.csproj.CoreCompileInputs.cache
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.AssemblyInfoInputs.cache
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.AssemblyInfo.cs
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.dll
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.pdb
+E:\Akshataproject\Delegate10\Delegate10\obj\Debug\netcoreapp3.1\Delegate10.genruntimeconfig.cache
