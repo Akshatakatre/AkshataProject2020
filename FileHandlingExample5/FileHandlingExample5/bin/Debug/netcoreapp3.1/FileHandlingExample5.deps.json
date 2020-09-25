@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FileHandlingExample5/1.0.0": {
+        "runtime": {
+          "FileHandlingExample5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileHandlingExample5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

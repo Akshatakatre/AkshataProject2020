@@ -1,0 +1,13 @@
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\bin\Debug\netcoreapp3.1\FileHandlingExample5.exe
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\bin\Debug\netcoreapp3.1\FileHandlingExample5.deps.json
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\bin\Debug\netcoreapp3.1\FileHandlingExample5.runtimeconfig.json
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\bin\Debug\netcoreapp3.1\FileHandlingExample5.runtimeconfig.dev.json
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\bin\Debug\netcoreapp3.1\FileHandlingExample5.dll
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\bin\Debug\netcoreapp3.1\FileHandlingExample5.pdb
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.csprojAssemblyReference.cache
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.csproj.CoreCompileInputs.cache
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.AssemblyInfoInputs.cache
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.AssemblyInfo.cs
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.dll
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.pdb
+E:\Akshataproject\FileHandlingExample5\FileHandlingExample5\obj\Debug\netcoreapp3.1\FileHandlingExample5.genruntimeconfig.cache
