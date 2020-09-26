@@ -1,0 +1,13 @@
+E:\Akshataproject\Constructor4\Constructor4\bin\Debug\netcoreapp3.1\Constructor4.exe
+E:\Akshataproject\Constructor4\Constructor4\bin\Debug\netcoreapp3.1\Constructor4.deps.json
+E:\Akshataproject\Constructor4\Constructor4\bin\Debug\netcoreapp3.1\Constructor4.runtimeconfig.json
+E:\Akshataproject\Constructor4\Constructor4\bin\Debug\netcoreapp3.1\Constructor4.runtimeconfig.dev.json
+E:\Akshataproject\Constructor4\Constructor4\bin\Debug\netcoreapp3.1\Constructor4.dll
+E:\Akshataproject\Constructor4\Constructor4\bin\Debug\netcoreapp3.1\Constructor4.pdb
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.csprojAssemblyReference.cache
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.csproj.CoreCompileInputs.cache
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.AssemblyInfoInputs.cache
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.AssemblyInfo.cs
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.dll
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.pdb
+E:\Akshataproject\Constructor4\Constructor4\obj\Debug\netcoreapp3.1\Constructor4.genruntimeconfig.cache
