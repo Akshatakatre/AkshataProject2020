@@ -1,0 +1,13 @@
+E:\Akshataproject\Constructor5\Constructor5\bin\Debug\netcoreapp3.1\Constructor5.exe
+E:\Akshataproject\Constructor5\Constructor5\bin\Debug\netcoreapp3.1\Constructor5.deps.json
+E:\Akshataproject\Constructor5\Constructor5\bin\Debug\netcoreapp3.1\Constructor5.runtimeconfig.json
+E:\Akshataproject\Constructor5\Constructor5\bin\Debug\netcoreapp3.1\Constructor5.runtimeconfig.dev.json
+E:\Akshataproject\Constructor5\Constructor5\bin\Debug\netcoreapp3.1\Constructor5.dll
+E:\Akshataproject\Constructor5\Constructor5\bin\Debug\netcoreapp3.1\Constructor5.pdb
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.csprojAssemblyReference.cache
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.csproj.CoreCompileInputs.cache
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.AssemblyInfoInputs.cache
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.AssemblyInfo.cs
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.dll
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.pdb
+E:\Akshataproject\Constructor5\Constructor5\obj\Debug\netcoreapp3.1\Constructor5.genruntimeconfig.cache
