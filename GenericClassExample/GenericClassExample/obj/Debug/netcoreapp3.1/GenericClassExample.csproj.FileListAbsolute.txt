@@ -1,0 +1,13 @@
+E:\Akshataproject\GenericClassExample\GenericClassExample\bin\Debug\netcoreapp3.1\GenericClassExample.exe
+E:\Akshataproject\GenericClassExample\GenericClassExample\bin\Debug\netcoreapp3.1\GenericClassExample.deps.json
+E:\Akshataproject\GenericClassExample\GenericClassExample\bin\Debug\netcoreapp3.1\GenericClassExample.runtimeconfig.json
+E:\Akshataproject\GenericClassExample\GenericClassExample\bin\Debug\netcoreapp3.1\GenericClassExample.runtimeconfig.dev.json
+E:\Akshataproject\GenericClassExample\GenericClassExample\bin\Debug\netcoreapp3.1\GenericClassExample.dll
+E:\Akshataproject\GenericClassExample\GenericClassExample\bin\Debug\netcoreapp3.1\GenericClassExample.pdb
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.csprojAssemblyReference.cache
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.AssemblyInfoInputs.cache
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.AssemblyInfo.cs
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.dll
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.pdb
+E:\Akshataproject\GenericClassExample\GenericClassExample\obj\Debug\netcoreapp3.1\GenericClassExample.genruntimeconfig.cache
