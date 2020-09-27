@@ -1,0 +1,13 @@
+E:\Akshataproject\GenericListExample\GenericListExample\bin\Debug\netcoreapp3.1\GenericListExample.exe
+E:\Akshataproject\GenericListExample\GenericListExample\bin\Debug\netcoreapp3.1\GenericListExample.deps.json
+E:\Akshataproject\GenericListExample\GenericListExample\bin\Debug\netcoreapp3.1\GenericListExample.runtimeconfig.json
+E:\Akshataproject\GenericListExample\GenericListExample\bin\Debug\netcoreapp3.1\GenericListExample.runtimeconfig.dev.json
+E:\Akshataproject\GenericListExample\GenericListExample\bin\Debug\netcoreapp3.1\GenericListExample.dll
+E:\Akshataproject\GenericListExample\GenericListExample\bin\Debug\netcoreapp3.1\GenericListExample.pdb
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.csprojAssemblyReference.cache
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.AssemblyInfoInputs.cache
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.AssemblyInfo.cs
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.dll
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.pdb
+E:\Akshataproject\GenericListExample\GenericListExample\obj\Debug\netcoreapp3.1\GenericListExample.genruntimeconfig.cache
