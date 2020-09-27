@@ -1,0 +1,13 @@
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\bin\Debug\netcoreapp3.1\GenericSortedListExample.exe
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\bin\Debug\netcoreapp3.1\GenericSortedListExample.deps.json
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\bin\Debug\netcoreapp3.1\GenericSortedListExample.runtimeconfig.json
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\bin\Debug\netcoreapp3.1\GenericSortedListExample.runtimeconfig.dev.json
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\bin\Debug\netcoreapp3.1\GenericSortedListExample.dll
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\bin\Debug\netcoreapp3.1\GenericSortedListExample.pdb
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.csprojAssemblyReference.cache
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.AssemblyInfoInputs.cache
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.AssemblyInfo.cs
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.dll
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.pdb
+E:\Akshataproject\GenericSortedListExample\GenericSortedListExample\obj\Debug\netcoreapp3.1\GenericSortedListExample.genruntimeconfig.cache
