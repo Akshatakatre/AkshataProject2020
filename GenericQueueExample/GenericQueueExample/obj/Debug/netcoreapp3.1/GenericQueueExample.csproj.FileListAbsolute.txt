@@ -1,0 +1,13 @@
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\bin\Debug\netcoreapp3.1\GenericQueueExample.exe
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\bin\Debug\netcoreapp3.1\GenericQueueExample.deps.json
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\bin\Debug\netcoreapp3.1\GenericQueueExample.runtimeconfig.json
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\bin\Debug\netcoreapp3.1\GenericQueueExample.runtimeconfig.dev.json
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\bin\Debug\netcoreapp3.1\GenericQueueExample.dll
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\bin\Debug\netcoreapp3.1\GenericQueueExample.pdb
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.csprojAssemblyReference.cache
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.AssemblyInfoInputs.cache
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.AssemblyInfo.cs
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.dll
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.pdb
+E:\Akshataproject\GenericQueueExample\GenericQueueExample\obj\Debug\netcoreapp3.1\GenericQueueExample.genruntimeconfig.cache
