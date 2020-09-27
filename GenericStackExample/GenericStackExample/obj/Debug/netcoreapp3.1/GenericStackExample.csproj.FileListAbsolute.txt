@@ -1,0 +1,13 @@
+E:\Akshataproject\GenericStackExample\GenericStackExample\bin\Debug\netcoreapp3.1\GenericStackExample.exe
+E:\Akshataproject\GenericStackExample\GenericStackExample\bin\Debug\netcoreapp3.1\GenericStackExample.deps.json
+E:\Akshataproject\GenericStackExample\GenericStackExample\bin\Debug\netcoreapp3.1\GenericStackExample.runtimeconfig.json
+E:\Akshataproject\GenericStackExample\GenericStackExample\bin\Debug\netcoreapp3.1\GenericStackExample.runtimeconfig.dev.json
+E:\Akshataproject\GenericStackExample\GenericStackExample\bin\Debug\netcoreapp3.1\GenericStackExample.dll
+E:\Akshataproject\GenericStackExample\GenericStackExample\bin\Debug\netcoreapp3.1\GenericStackExample.pdb
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.csprojAssemblyReference.cache
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.AssemblyInfoInputs.cache
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.AssemblyInfo.cs
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.dll
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.pdb
+E:\Akshataproject\GenericStackExample\GenericStackExample\obj\Debug\netcoreapp3.1\GenericStackExample.genruntimeconfig.cache
