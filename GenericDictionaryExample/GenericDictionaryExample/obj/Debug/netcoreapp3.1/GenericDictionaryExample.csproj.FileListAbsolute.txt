@@ -1,0 +1,13 @@
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\bin\Debug\netcoreapp3.1\GenericDictionaryExample.exe
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\bin\Debug\netcoreapp3.1\GenericDictionaryExample.deps.json
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\bin\Debug\netcoreapp3.1\GenericDictionaryExample.runtimeconfig.json
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\bin\Debug\netcoreapp3.1\GenericDictionaryExample.runtimeconfig.dev.json
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\bin\Debug\netcoreapp3.1\GenericDictionaryExample.dll
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\bin\Debug\netcoreapp3.1\GenericDictionaryExample.pdb
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.csprojAssemblyReference.cache
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.csproj.CoreCompileInputs.cache
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.AssemblyInfoInputs.cache
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.AssemblyInfo.cs
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.dll
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.pdb
+E:\Akshataproject\GenericDictionaryExample\GenericDictionaryExample\obj\Debug\netcoreapp3.1\GenericDictionaryExample.genruntimeconfig.cache
