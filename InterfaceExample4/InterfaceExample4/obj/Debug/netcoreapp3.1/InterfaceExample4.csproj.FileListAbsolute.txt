@@ -1,0 +1,13 @@
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\bin\Debug\netcoreapp3.1\InterfaceExample4.exe
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\bin\Debug\netcoreapp3.1\InterfaceExample4.deps.json
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\bin\Debug\netcoreapp3.1\InterfaceExample4.runtimeconfig.json
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\bin\Debug\netcoreapp3.1\InterfaceExample4.runtimeconfig.dev.json
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\bin\Debug\netcoreapp3.1\InterfaceExample4.dll
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\bin\Debug\netcoreapp3.1\InterfaceExample4.pdb
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.csprojAssemblyReference.cache
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.csproj.CoreCompileInputs.cache
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.AssemblyInfoInputs.cache
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.AssemblyInfo.cs
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.dll
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.pdb
+E:\Akshataproject\InterfaceExample4\InterfaceExample4\obj\Debug\netcoreapp3.1\InterfaceExample4.genruntimeconfig.cache
