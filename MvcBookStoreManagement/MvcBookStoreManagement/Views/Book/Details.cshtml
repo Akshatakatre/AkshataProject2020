@@ -1,0 +1,52 @@
+﻿@model MvcBookStoreManagement.Models.booklist
+
+<div>
+    <h4>booklist</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BookName)
+</dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookName)
+</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mrp)
+</dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mrp)
+</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Author)
+</dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Author)
+</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Category)
+</dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Category)
+</dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Publisher)
+</dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Publisher)
+</dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
