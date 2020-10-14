@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model AspNetCoreRegistration.ViewModel.RegistrationViewModel
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    @using (var form = Html.BeginForm("CreateUpdate", "Home", FormMethod.Post))
+    {
+        @Html.HiddenFor(model => model.EditableItem.Id)
+        <div class="input-group">
+            @Html.TextBoxFor(model => model.EditableItem.Name, new { @class = "form-control" })
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-success">@(Model.EditableItem.Id > 0 ? "Update" : "Add")</button>
+            </div>
+        </div>
+        @Html.ValidationSummary()
+    }
+</div>

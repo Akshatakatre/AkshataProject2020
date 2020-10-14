@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "Signup";
+}
+
+@model AspNetCoreRegistration.Models.RegistrationTable
+@using (Html.BeginForm("Form2", "Home", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td>Enter ID: </td>
+            <td>@Html.TextBoxFor(m => m.Id)</td>
+        </tr>
+        <tr>
+            <td>Enter Name: </td>
+            <td>@Html.TextBoxFor(m => m.Name)</td>
+        </tr>
+        <tr>
+            <td>Enter Address: </td>
+            <td>@Html.TextBoxFor(m => m.Address)</td>
+        </tr>
+        <tr>
+            <td>Enter Mobile Number: </td>
+            <td>@Html.TextBoxFor(m => m.Mobile_Number)</td>
+        </tr>
+        <tr>
+            <td>Enter Email id: </td>
+            <td>@Html.TextBoxFor(m => m.Email_id)</td>
+        </tr>
+        <tr>
+            <td>Enter Password: </td>
+            <td>
+                @Html.PasswordFor(m => m.Password)
+                        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "error" })
+                    </td>
+        </tr>
+        <tr>
+            <td>Enter Conform Password: </td>
+            <td>
+                @Html.PasswordFor(m => m.Conform_Password)
+                        @Html.ValidationMessageFor(m => m.Conform_Password, "", new { @class = "error" })
+                    </td>
+        </tr>
+        <tr>
+            <td>Enter Gender: </td>
+            <td>@Html.TextBoxFor(m => m.Name)</td>
+        </tr>
+        <tr>
+            <td>Enter Age: </td>
+            <td>@Html.TextBoxFor(m => m.Age)</td>
+        </tr>
+        <tr>
+            <td>Enter Date of Birth: </td>
+            <td>@Html.TextBoxFor(m => m.Date_of_Birth)</td>
+        </tr>
+        
+        <tr>
+            <td colspan="2"><input type="submit" value="Submit Form" /></td>
+        </tr>
+    </table>
+
+}
