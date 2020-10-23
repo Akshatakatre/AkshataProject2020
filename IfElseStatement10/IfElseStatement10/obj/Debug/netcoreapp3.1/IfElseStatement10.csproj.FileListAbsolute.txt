@@ -1,0 +1,13 @@
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\bin\Debug\netcoreapp3.1\IfElseStatement10.exe
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\bin\Debug\netcoreapp3.1\IfElseStatement10.deps.json
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\bin\Debug\netcoreapp3.1\IfElseStatement10.runtimeconfig.json
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\bin\Debug\netcoreapp3.1\IfElseStatement10.runtimeconfig.dev.json
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\bin\Debug\netcoreapp3.1\IfElseStatement10.dll
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\bin\Debug\netcoreapp3.1\IfElseStatement10.pdb
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.csprojAssemblyReference.cache
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.csproj.CoreCompileInputs.cache
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.AssemblyInfoInputs.cache
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.AssemblyInfo.cs
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.dll
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.pdb
+E:\Akshataproject\IfElseStatement10\IfElseStatement10\obj\Debug\netcoreapp3.1\IfElseStatement10.genruntimeconfig.cache
