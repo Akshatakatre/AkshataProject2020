@@ -1,0 +1,13 @@
+E:\Akshataproject\SwitchExample8\SwitchExample8\bin\Debug\netcoreapp3.1\SwitchExample8.exe
+E:\Akshataproject\SwitchExample8\SwitchExample8\bin\Debug\netcoreapp3.1\SwitchExample8.deps.json
+E:\Akshataproject\SwitchExample8\SwitchExample8\bin\Debug\netcoreapp3.1\SwitchExample8.runtimeconfig.json
+E:\Akshataproject\SwitchExample8\SwitchExample8\bin\Debug\netcoreapp3.1\SwitchExample8.runtimeconfig.dev.json
+E:\Akshataproject\SwitchExample8\SwitchExample8\bin\Debug\netcoreapp3.1\SwitchExample8.dll
+E:\Akshataproject\SwitchExample8\SwitchExample8\bin\Debug\netcoreapp3.1\SwitchExample8.pdb
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.csprojAssemblyReference.cache
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.csproj.CoreCompileInputs.cache
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.AssemblyInfoInputs.cache
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.AssemblyInfo.cs
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.dll
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.pdb
+E:\Akshataproject\SwitchExample8\SwitchExample8\obj\Debug\netcoreapp3.1\SwitchExample8.genruntimeconfig.cache
