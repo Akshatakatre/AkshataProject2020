@@ -1,0 +1,4 @@
+E:\Akshataproject\SwitchExample5\SwitchExample5\obj\Debug\netcoreapp3.1\SwitchExample5.csprojAssemblyReference.cache
+E:\Akshataproject\SwitchExample5\SwitchExample5\obj\Debug\netcoreapp3.1\SwitchExample5.csproj.CoreCompileInputs.cache
+E:\Akshataproject\SwitchExample5\SwitchExample5\obj\Debug\netcoreapp3.1\SwitchExample5.AssemblyInfoInputs.cache
+E:\Akshataproject\SwitchExample5\SwitchExample5\obj\Debug\netcoreapp3.1\SwitchExample5.AssemblyInfo.cs
