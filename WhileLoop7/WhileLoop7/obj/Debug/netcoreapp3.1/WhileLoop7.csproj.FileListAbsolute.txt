@@ -1,0 +1,13 @@
+E:\Akshataproject\WhileLoop7\WhileLoop7\bin\Debug\netcoreapp3.1\WhileLoop7.exe
+E:\Akshataproject\WhileLoop7\WhileLoop7\bin\Debug\netcoreapp3.1\WhileLoop7.deps.json
+E:\Akshataproject\WhileLoop7\WhileLoop7\bin\Debug\netcoreapp3.1\WhileLoop7.runtimeconfig.json
+E:\Akshataproject\WhileLoop7\WhileLoop7\bin\Debug\netcoreapp3.1\WhileLoop7.runtimeconfig.dev.json
+E:\Akshataproject\WhileLoop7\WhileLoop7\bin\Debug\netcoreapp3.1\WhileLoop7.dll
+E:\Akshataproject\WhileLoop7\WhileLoop7\bin\Debug\netcoreapp3.1\WhileLoop7.pdb
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.csprojAssemblyReference.cache
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.AssemblyInfoInputs.cache
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.AssemblyInfo.cs
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.dll
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.pdb
+E:\Akshataproject\WhileLoop7\WhileLoop7\obj\Debug\netcoreapp3.1\WhileLoop7.genruntimeconfig.cache
