@@ -1,0 +1,13 @@
+E:\Akshataproject\WhileLoop5\WhileLoop5\bin\Debug\netcoreapp3.1\WhileLoop5.exe
+E:\Akshataproject\WhileLoop5\WhileLoop5\bin\Debug\netcoreapp3.1\WhileLoop5.deps.json
+E:\Akshataproject\WhileLoop5\WhileLoop5\bin\Debug\netcoreapp3.1\WhileLoop5.runtimeconfig.json
+E:\Akshataproject\WhileLoop5\WhileLoop5\bin\Debug\netcoreapp3.1\WhileLoop5.runtimeconfig.dev.json
+E:\Akshataproject\WhileLoop5\WhileLoop5\bin\Debug\netcoreapp3.1\WhileLoop5.dll
+E:\Akshataproject\WhileLoop5\WhileLoop5\bin\Debug\netcoreapp3.1\WhileLoop5.pdb
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.csprojAssemblyReference.cache
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.AssemblyInfoInputs.cache
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.AssemblyInfo.cs
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.dll
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.pdb
+E:\Akshataproject\WhileLoop5\WhileLoop5\obj\Debug\netcoreapp3.1\WhileLoop5.genruntimeconfig.cache
