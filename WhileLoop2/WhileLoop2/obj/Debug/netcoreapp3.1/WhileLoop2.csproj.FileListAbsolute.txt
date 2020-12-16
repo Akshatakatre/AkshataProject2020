@@ -1,0 +1,13 @@
+E:\Akshataproject\WhileLoop2\WhileLoop2\bin\Debug\netcoreapp3.1\WhileLoop2.exe
+E:\Akshataproject\WhileLoop2\WhileLoop2\bin\Debug\netcoreapp3.1\WhileLoop2.deps.json
+E:\Akshataproject\WhileLoop2\WhileLoop2\bin\Debug\netcoreapp3.1\WhileLoop2.runtimeconfig.json
+E:\Akshataproject\WhileLoop2\WhileLoop2\bin\Debug\netcoreapp3.1\WhileLoop2.runtimeconfig.dev.json
+E:\Akshataproject\WhileLoop2\WhileLoop2\bin\Debug\netcoreapp3.1\WhileLoop2.dll
+E:\Akshataproject\WhileLoop2\WhileLoop2\bin\Debug\netcoreapp3.1\WhileLoop2.pdb
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.csprojAssemblyReference.cache
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.AssemblyInfoInputs.cache
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.AssemblyInfo.cs
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.dll
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.pdb
+E:\Akshataproject\WhileLoop2\WhileLoop2\obj\Debug\netcoreapp3.1\WhileLoop2.genruntimeconfig.cache
