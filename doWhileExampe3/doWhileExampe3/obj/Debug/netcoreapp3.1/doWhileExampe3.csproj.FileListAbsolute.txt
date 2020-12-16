@@ -1,0 +1,13 @@
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\bin\Debug\netcoreapp3.1\doWhileExampe3.exe
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\bin\Debug\netcoreapp3.1\doWhileExampe3.deps.json
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\bin\Debug\netcoreapp3.1\doWhileExampe3.runtimeconfig.json
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\bin\Debug\netcoreapp3.1\doWhileExampe3.runtimeconfig.dev.json
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\bin\Debug\netcoreapp3.1\doWhileExampe3.dll
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\bin\Debug\netcoreapp3.1\doWhileExampe3.pdb
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.csprojAssemblyReference.cache
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.csproj.CoreCompileInputs.cache
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.AssemblyInfoInputs.cache
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.AssemblyInfo.cs
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.dll
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.pdb
+E:\Akshataproject\doWhileExampe3\doWhileExampe3\obj\Debug\netcoreapp3.1\doWhileExampe3.genruntimeconfig.cache
