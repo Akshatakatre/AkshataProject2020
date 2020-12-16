@@ -1,0 +1,13 @@
+E:\Akshataproject\WhileLoop6\WhileLoop6\bin\Debug\netcoreapp3.1\WhileLoop6.exe
+E:\Akshataproject\WhileLoop6\WhileLoop6\bin\Debug\netcoreapp3.1\WhileLoop6.deps.json
+E:\Akshataproject\WhileLoop6\WhileLoop6\bin\Debug\netcoreapp3.1\WhileLoop6.runtimeconfig.json
+E:\Akshataproject\WhileLoop6\WhileLoop6\bin\Debug\netcoreapp3.1\WhileLoop6.runtimeconfig.dev.json
+E:\Akshataproject\WhileLoop6\WhileLoop6\bin\Debug\netcoreapp3.1\WhileLoop6.dll
+E:\Akshataproject\WhileLoop6\WhileLoop6\bin\Debug\netcoreapp3.1\WhileLoop6.pdb
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.csprojAssemblyReference.cache
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.AssemblyInfoInputs.cache
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.AssemblyInfo.cs
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.dll
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.pdb
+E:\Akshataproject\WhileLoop6\WhileLoop6\obj\Debug\netcoreapp3.1\WhileLoop6.genruntimeconfig.cache
