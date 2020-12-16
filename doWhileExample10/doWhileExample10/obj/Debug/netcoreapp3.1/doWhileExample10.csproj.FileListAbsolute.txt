@@ -1,0 +1,13 @@
+E:\Akshataproject\doWhileExample10\doWhileExample10\bin\Debug\netcoreapp3.1\doWhileExample10.exe
+E:\Akshataproject\doWhileExample10\doWhileExample10\bin\Debug\netcoreapp3.1\doWhileExample10.deps.json
+E:\Akshataproject\doWhileExample10\doWhileExample10\bin\Debug\netcoreapp3.1\doWhileExample10.runtimeconfig.json
+E:\Akshataproject\doWhileExample10\doWhileExample10\bin\Debug\netcoreapp3.1\doWhileExample10.runtimeconfig.dev.json
+E:\Akshataproject\doWhileExample10\doWhileExample10\bin\Debug\netcoreapp3.1\doWhileExample10.dll
+E:\Akshataproject\doWhileExample10\doWhileExample10\bin\Debug\netcoreapp3.1\doWhileExample10.pdb
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.csprojAssemblyReference.cache
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.csproj.CoreCompileInputs.cache
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.AssemblyInfoInputs.cache
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.AssemblyInfo.cs
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.dll
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.pdb
+E:\Akshataproject\doWhileExample10\doWhileExample10\obj\Debug\netcoreapp3.1\doWhileExample10.genruntimeconfig.cache
