@@ -1,0 +1,13 @@
+E:\Akshataproject\WhileLoop8\WhileLoop8\bin\Debug\netcoreapp3.1\WhileLoop8.exe
+E:\Akshataproject\WhileLoop8\WhileLoop8\bin\Debug\netcoreapp3.1\WhileLoop8.deps.json
+E:\Akshataproject\WhileLoop8\WhileLoop8\bin\Debug\netcoreapp3.1\WhileLoop8.runtimeconfig.json
+E:\Akshataproject\WhileLoop8\WhileLoop8\bin\Debug\netcoreapp3.1\WhileLoop8.runtimeconfig.dev.json
+E:\Akshataproject\WhileLoop8\WhileLoop8\bin\Debug\netcoreapp3.1\WhileLoop8.dll
+E:\Akshataproject\WhileLoop8\WhileLoop8\bin\Debug\netcoreapp3.1\WhileLoop8.pdb
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.csprojAssemblyReference.cache
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.csproj.CoreCompileInputs.cache
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.AssemblyInfoInputs.cache
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.AssemblyInfo.cs
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.dll
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.pdb
+E:\Akshataproject\WhileLoop8\WhileLoop8\obj\Debug\netcoreapp3.1\WhileLoop8.genruntimeconfig.cache
