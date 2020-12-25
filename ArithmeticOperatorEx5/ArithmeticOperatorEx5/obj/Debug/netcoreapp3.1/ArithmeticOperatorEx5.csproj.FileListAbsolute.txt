@@ -1,0 +1,13 @@
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\bin\Debug\netcoreapp3.1\ArithmeticOperatorEx5.exe
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\bin\Debug\netcoreapp3.1\ArithmeticOperatorEx5.deps.json
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\bin\Debug\netcoreapp3.1\ArithmeticOperatorEx5.runtimeconfig.json
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\bin\Debug\netcoreapp3.1\ArithmeticOperatorEx5.runtimeconfig.dev.json
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\bin\Debug\netcoreapp3.1\ArithmeticOperatorEx5.dll
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\bin\Debug\netcoreapp3.1\ArithmeticOperatorEx5.pdb
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.csprojAssemblyReference.cache
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.csproj.CoreCompileInputs.cache
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.AssemblyInfoInputs.cache
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.AssemblyInfo.cs
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.dll
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.pdb
+E:\Akshataproject\ArithmeticOperatorEx5\ArithmeticOperatorEx5\obj\Debug\netcoreapp3.1\ArithmeticOperatorEx5.genruntimeconfig.cache
