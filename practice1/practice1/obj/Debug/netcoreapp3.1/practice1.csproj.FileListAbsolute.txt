@@ -1,0 +1,13 @@
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.csprojAssemblyReference.cache
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.csproj.CoreCompileInputs.cache
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.AssemblyInfoInputs.cache
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.AssemblyInfo.cs
+E:\Akshataproject\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.exe
+E:\Akshataproject\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.deps.json
+E:\Akshataproject\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.runtimeconfig.json
+E:\Akshataproject\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.runtimeconfig.dev.json
+E:\Akshataproject\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.dll
+E:\Akshataproject\practice1\practice1\bin\Debug\netcoreapp3.1\practice1.pdb
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.dll
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.pdb
+E:\Akshataproject\practice1\practice1\obj\Debug\netcoreapp3.1\practice1.genruntimeconfig.cache
