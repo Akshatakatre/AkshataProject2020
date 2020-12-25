@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperatorEx2", "ArithmeticOperatorEx2\ArithmeticOperatorEx2.csproj", "{1E75A430-2F7C-4DBF-AAD0-29DBCC30CB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E75A430-2F7C-4DBF-AAD0-29DBCC30CB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E75A430-2F7C-4DBF-AAD0-29DBCC30CB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E75A430-2F7C-4DBF-AAD0-29DBCC30CB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E75A430-2F7C-4DBF-AAD0-29DBCC30CB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931A590B-3DDB-41CA-95E5-1F638982F198}
+	EndGlobalSection
+EndGlobal
